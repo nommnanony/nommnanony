@@ -56,7 +56,7 @@
 ## 📬 Connect With Me
 
 <p align="left">
-  📧 Email: <a href="kartikchaturvedi377@gmail.com">kartikey@example.com</a><br>
+  📧 Email: <a href="kartikchaturvedi377@gmail.com">kartikchaturvedi377@gmail.com</a><br>
   🌐 Website: <a href="https://kartikportfoilo.netlify.app/" target="_blank">kartikportfoilo.netlify.app</a><br>
   🧑‍💼 LinkedIn: <a href="https://www.linkedin.com/in/kartik-chaturvedi-121468288" target="_blank">kartik-chaturvedi-121468288</a><br>
   🛠️ Portfolio: <a href="https://kartikportfoilo.netlify.app/">kartikportfoilo.netlify.app</a>
